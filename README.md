@@ -1,0 +1,2 @@
+# FQLinkageAtlas4
+联动相册-上面三个scrollV下面一个collectionV,优点是缩放的同时可以上下滑动
